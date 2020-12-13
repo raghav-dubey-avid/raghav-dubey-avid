@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**raghav-dubey-avid/raghav-dubey-avid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/raghav-dubey-avid">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.codechef.com/users/raghav_1429">
+  <img align="left" alt="Raghavendra's Hackerrank" width="22px" src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Here are some ideas to get you started:
+### I am Raghavendra Dubey
+- An Android Development & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Mobile App Development and Web Development.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Raghavendra Dubey](https://github.com/raghav-dubey-avid)
